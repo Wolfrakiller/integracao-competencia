@@ -1,0 +1,32 @@
+.fera{
+    width: 550px;
+    height: 450px;
+}
+.descricao{
+    margin: 10px;
+    width: 275px;
+    
+}
+.menu{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    
+    
+}
+.butao{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.desc-e-menu{
+    display: flex;
+
+}
+strong p{
+    margin-bottom: 0;
+    
+}
+.grafico{
+    display: none;
+} 

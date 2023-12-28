@@ -1,0 +1,126 @@
+{
+  "Bosses": [
+    {
+      "id": 1,
+      "nome": "10. Fera da Estrela Cadente Adulta",
+      "img": "img/10. Fera da Estrela Cadente Adulta.jpg",
+      "descricao": "Híbrido de touro e escorpião, o chefe opcional Fera da Estrela Cadente Adulta pode ser  encontrado na região vulcânica de Mt. Gelmir,e apesar de sua batalha ocorrer em um cenário amplo, há pouco espaço para brechas de ataque. O boss se destaca por atacar consistentemente e contra-atacar em uma velocidade imediata,apresentando alta resistência a qualquer tipo de dano físico.",
+      "HP": 20000,
+      "HPor": 100,
+      "Dano": 250,
+      "DanoPor": 100,
+      "Resistencia": 1999,
+      "ResistenciaPor": 100
+      
+    },
+    {
+      "id": 2,
+      "nome": "9. Placidusax, o Lorde Dragão",
+      "img": "img/9. Placidusax, o Lorde Dragão.jpg",
+      "descricao": "Uma das grandes ameaças de Farum Azula, o Lorde Dragão Placidusax é uma criatura de duas cabeças que faz jus ao seu título. Opcional e do tipo Lenda — ou seja, muitas runas como recompensa —, o chefe ambienta um cenário épico e conta com ataques de proximidade e à distância, utilizando fogo e raio para alcançar um alto range de dano. Caso deseje enfrentá-lo, é essencial estar muito bem preparado.",
+      "HP": 20000,
+      "HPor": 100,
+      "Dano": 250,
+      "DanoPor": 100,
+      "Resistencia": 1999,
+      "ResistenciaPor": 100
+    },
+    {
+      "id": 3,
+      "nome": "8. Hoarah Loux, O Guerreiro",
+      "img": "img/horalux.jpg",
+      "descricao": "Chefe obrigatório em Leyndell, Hoarah Loux antagoniza uma batalha de deixar qualquer um de boca aberta e sem piscar. Imponente, o chefe brande seu machado e conta com uma espécie de “instinto superior leonino”, exigindo que os jogadores derrotem primeiro Godfrey, o Primeiro Lorde Pristino, para apenas depois enfrentarem a versão definitiva do Guerreiro.",
+      "HP": 21.903,
+      "HPor": 60,
+      "Dano": 250,
+      "DanoPor": 100,
+      "Resistencia": 120,
+      "ResistenciaPor": 50
+    },
+    {
+      "id": 4,
+      "nome": "7. Gigante de Fogo",
+      "img": "img/gigante de fogo.jpg",
+      "descricao": "Maior gigante de Elden Ring, o Gigante de Fogo é um chefe não opcional de cenário que consiste em duas fases. Na primeira, ele usará uma espécie de disco como arma, e sua segunda fase será incorporada por bolas de fogo guiadas. O monstro é encontrado na Montanha dos Gigantes e é o maior obstáculo antes da Forja.",
+      "HP": 20000,
+      "HPor": 100,
+      "Dano": 250,
+      "DanoPor": 100,
+      "Resistencia": 1999,
+      "ResistenciaPor": 100
+    },
+    {
+      "id": 5,
+      "nome": "6. Astel, Filho Natural da Escuridão",
+      "img": "img/6. Astel, Filho Natural da Escuridão.jpg",
+      "descricao": "Com inspirações de design nos chefes cósmicos de Bloodborne, Astel, Filho Natural da Escuridão, chama a atenção por ser visualmente incrível e assustador. O chefe faz parte da quest de Ranni e pode ser encontrado no Grande Claustro. A criatura possui um ataque de raio brutal e muito difícil de se esquivar, além de utilizar uma cauda com um alcance absurdo que promete deixar o Maculado sem tempo para reagir.",
+      "HP": 20000,
+      "HPor": 100,
+      "Dano": 250,
+      "DanoPor": 100,
+      "Resistencia": 1999,
+      "ResistenciaPor": 100
+    },
+    {
+      "id": 6,
+      "nome": "5. Flagelo Estelar Radahn",
+      "img": "img/elden-ring-55. Flagelo Estelar Radahn.jpg",
+      "descricao": "Ah, Radahn, você certamente não poderia estar de fora desta lista. O destrutivo semideus de Elden Ring, localizado no Castelo da Juba Vermelha, em Caelid, possui ataques brutais para todo tipo de situação de batalha. Derrotá-lo é uma das tarefas mais difíceis de Elden Ring, e possivelmente a maneira mais fácil — ou menos difícil — de realizar tal feito é ativar o Festival e convocar vários NPCs para ajudá-lo.",
+      "HP": 20000,
+      "HPor": 100,
+      "Dano": 250,
+      "DanoPor": 100,
+      "Resistencia": 1999,
+      "ResistenciaPor": 100
+    },
+    {
+      "id": 7,
+      "nome": "4. Maliketh, a Lâmina Negra",
+      "img": "img/4. Maliketh, a Lâmina Negra.jpg",
+      "descricao": "Evolução do fraco Clérigo Bestial, Maliketh, a Lâmina Negra, utiliza todo seu cenário em Farum Azula para se fixar em colunas, saltar, rolar e correr. Porém, entender sua grande quantidade de movesets é tão desafiador quanto evitar os ataques de sua espada, pois o chefe oferece combos absurdos e habilidades baseadas em energia que prometem fazer muitos jogadores arremessarem o controle.",
+      "HP": 20000,
+      "HPor": 100,
+      "Dano": 250,
+      "DanoPor": 100,
+      "Resistencia": 1999,
+      "ResistenciaPor": 100
+
+    },
+    {
+      "id": 8,
+      "nome": "3. Rykard, Lorde Blasfemo",
+      "img": "img/3. Rykard, Lorde Blasfemo.jpg",
+      "descricao": "Segunda fase da Serpente Devoradora de Deuses, Rykard, Lorde Blasfemo, é um dos grandes chefes da área de Mt. Gelmir. O chefe opcional combina seu tamanho colossal e ataques baseados em lava para tirar o fôlego dos heróis, atuando em um cenário desafiador onde praticamente não existem zonas cegas.",
+      "HP": 20000,
+      "HPor": 100,
+      "Dano": 250,
+      "DanoPor": 100,
+      "Resistencia": 1999,
+      "ResistenciaPor": 100
+    },
+    {
+      "id": 9,
+      "nome": "2. Radagon da Ordem Áurea + Fera Pristina",
+      "img": "img/2. Radagon da Ordem Áurea + Fera Pristina.jpg",
+      "descricao": "É impossível não batalhar contra Radagon sem recordar Alma das Cinzas, de Dark Souls 3, e Isshin Ashina, de Sekiro. O vilão combina movets semelhantes aos dos chefes para apertar o Maculado, causando um dano absurdo e encerrando a batalha em poucos golpes. Após os jogadores o derrotarem, o próximo passo — e o último — é eliminar a verdadeira forma do chefão: a Fera Pristina. Ela é uma espécie de medula cósmica com ataques em área que exigem diferentes tempos de reações, dificultando a aproximação e favorecendo builds de magos ou baseadas em habilidades de alcance.",
+      "HP": 20000,
+      "HPor": 100,
+      "Dano": 250,
+      "DanoPor": 100,
+      "Resistencia": 1999,
+      "ResistenciaPor": 100
+    },
+    {
+      "id": 10,
+      "nome": "1. Malenia, a Espada de Miquella",
+      "img": "img/1. Malenia, a Espada de Miquella.jpg",
+      "descricao": "Juntando todos os maiores desafios de Elden Ring, é possível que não se chegue à verdadeira força de Malenia. Considerada a chefe mais difícil do game, a Lenda de Elphael utiliza golpes super velozes e uma espada fatal, pressionando o protagonista e não deixando brechas para ataques mais consistentes, em ambas as fases. Malenia busca terminar o confronto em poucos segundos e é o verdadeiro teste de persistência no jogo da FromSoftware.",
+      "HP": 20000,
+      "HPor": 100,
+      "Dano": 250,
+      "DanoPor": 100,
+      "Resistencia": 1999,
+      "ResistenciaPor": 100
+    }
+  ]
+}
